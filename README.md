@@ -8,17 +8,6 @@ Ele inclui:
 ✅ Modelo de Machine Learning para previsão de gastos  
 ✅ Exportação para Power BI para dashboard interativo
 
----
-
-## 📑 Tabela de Conteúdo
-
-- [💡 Sobre o Projeto](#-sobre-o-projeto)
-- [🛠️ Tecnologias Usadas](#-tecnologias-usadas)
-- [🚀 Como Usar](#-como-usar)
-- [📂 Estrutura do Projeto](#-estrutura-do-projeto)
-- [📈 Exemplos de Dashboards](#-exemplos-de-dashboards)
-- [🤝 Contribuição](#-contribuição)
-- [📝 Licença](#-licença)
 
 ---
 
@@ -56,7 +45,7 @@ Neste projeto você encontrará:
 
 ### 1️⃣ Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/Gabryel-Januario/Anlise-Inteligente-de-Despesas-Pessoais
 cd nome-do-repo
 ```
 ### 2️⃣ Crie o ambiente virtual (opcional, recomendado)
